@@ -1,6 +1,7 @@
 # Clicker-Game
 React native mobile game using websockets.
-![](homeScreen.png =100x20)
+<img src="homeScreen.png" alt="drawing" width="200"/>
+![](homeScreen.png)
 ![](menuScreen.png)
 ![](lobbyList.png)
 ![](chatt.png)
