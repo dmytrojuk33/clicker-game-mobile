@@ -1,0 +1,19 @@
+{
+  "name": "mobile-backend",
+  "version": "1.0.0",
+  "description": "The backend for a React Native app. Node.js.",
+  "main": "app.js",
+  "author": "Rafael Dolfe & Jacob Wirgård",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "http": "^0.0.0",
+    "morgan": "^1.9.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^4.43.0",
+    "socket.io": "^2.2.0"
+  }
+}
